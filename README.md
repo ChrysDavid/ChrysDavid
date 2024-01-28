@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+And+Mobile++Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Sophomre student at IIT (Ivoirian Institute of Technology) pursuing a Bachelor Degree in Computer Science. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am currently a sophomore student at the IIT (Ivoirian Institute of Technology), where I am working towards a Bachelor's Degree in Computer Science. My interests lie in coding, design, innovation, and experimentation. I am an individual with a strong enthusiasm for taking on new challenges and acquiring additional skills. I enjoy socializing, meeting new people, exchanging ideas, and contributing to the sharing of knowledge and positivity.</h4>
 <br>
 
 
