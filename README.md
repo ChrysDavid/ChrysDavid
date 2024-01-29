@@ -13,14 +13,18 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
-  </a> 
+  <div style="display: flex; align-items: center;">
+  <!-- Badge C# -->
+  <a href="https://www.cprogramming.com/" target="_blank" style="margin-right: 10px;">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="height: 20px; width: 120px;"/>
+  </a>
+
+  <!-- Badge C -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white" style="height: 20px; width: 30px;">
+  </a>
+</div>
+
 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
