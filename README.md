@@ -19,7 +19,7 @@
   </a> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank" style="display: inline-block;">
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="height: 23px; border-radius: 5px;"/>
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white" style="height: 21px; border-radius: 5px;"/>
   </a>
 
 
