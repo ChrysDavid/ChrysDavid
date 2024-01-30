@@ -24,6 +24,10 @@
 
 
   &emsp;
+  <a href="https://www.dart.com" target="_blank"> 
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
