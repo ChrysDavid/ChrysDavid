@@ -72,7 +72,7 @@
   &emsp;
     <a href="https://www.github.com/" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.firebase.google.com/" target="_blank"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   &emsp;
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&logoColor=white"/></a>
  </p>
