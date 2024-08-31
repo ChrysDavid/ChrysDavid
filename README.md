@@ -4,8 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+And+Mobile++Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am currently a sophomore student at the IIT (Ivoirian Institute of Technology), where I am working towards a Bachelor's Degree in Computer Science. My interests lie in coding, design, innovation, and experimentation. I am an individual with a strong enthusiasm for taking on new challenges and acquiring additional skills. I enjoy socializing, meeting new people, exchanging ideas, and contributing to the sharing of knowledge and positivity.</h4>
-<br>
+<h4 align="center">Je suis actuellement étudiant en 3ème année de licence à l'IIT (Institut Ivoirien de Technologie), où je prépare une Licence en Informatique. Mes intérêts portent sur la programmation, le design, l'innovation et l'expérimentation. Je suis une personne avec un fort enthousiasme pour relever de nouveaux défis et acquérir de nouvelles compétences. J'apprécie les interactions sociales, rencontrer de nouvelles personnes, échanger des idées et contribuer au partage de connaissances et de positivité.</h4> <br>
 
 
 ## 🛠️ My Skills
