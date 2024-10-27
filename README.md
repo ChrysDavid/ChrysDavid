@@ -81,7 +81,7 @@
   &emsp;
   	
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%23FF9A00.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a> 
   &emsp;
 <!--   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
@@ -92,8 +92,8 @@
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
  </a> 
    &emsp; -->
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  <a href="#" target="_blank"> 
+   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   </a>
     &emsp;
   <a href="#">
@@ -113,9 +113,16 @@
     <img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://www.odoo.com/" target="_blank"> 
-   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-%2300f.svg?style=flat&logo=odoo&logoColor=white"/>
-  </a>
+  <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer">
+    <img 
+        src="https://img.shields.io/badge/Odoo-%2300f.svg?style=flat&logo=odoo&logoColor=white" 
+        alt="Odoo logo" 
+        title="Odoo - Open Source ERP"
+        width="100"
+        height="30"
+    />
+</a>
+
 <!--     &emsp; -->
  </p>
  
