@@ -115,7 +115,7 @@
    &emsp;
   <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer">
     <img 
-        src="https://img.shields.io/badge/Odoo-%2300f.svg?style=flat&logo=odoo&logoColor=white" 
+        src="https://img.shields.io/badge/Odoo-%23714b67.svg?style=flat&logo=odoo&logoColor=white" 
         alt="Odoo logo" 
         title="Odoo - Open Source ERP"
         width="100"
@@ -140,8 +140,16 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-<!--     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp; -->
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+  &emsp;
+ <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
+  &emsp; 
 </p>
 
 <br/>
