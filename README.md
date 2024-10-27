@@ -80,19 +80,18 @@
 <p align="left">
   &emsp;
   	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%23FF9A00.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+<!--   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
+ </a> 
+   &emsp; -->
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
   </a>
@@ -104,16 +103,18 @@
 
  ### 👉 CMS
 
-<p align="left">
-  &emsp;
-</a> 
+<p align="left"> 
     &emsp;
   <a href="https://wordpress.org/" target="_blank"> 
     <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   </a>
+    &emsp;
+  <a href="https://www.joomla.fr/" target="_blank"> 
+    <img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
+  </a>
    &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  <a href="https://www.odoo.com/" target="_blank"> 
+   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-%2300f.svg?style=flat&logo=odoo&logoColor=white"/>
   </a>
 <!--     &emsp; -->
  </p>
