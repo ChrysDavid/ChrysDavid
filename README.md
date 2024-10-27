@@ -115,7 +115,7 @@
    &emsp;
   <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer" title="Odoo - Open Source ERP">
     <img 
-        src="https://img.shields.io/badge/O-%23714b67.svg?style=flat&logo=odoo&logoColor=white" 
+        src="https://img.shields.io/badge/Odoo-%23714b67.svg?style=flat&logo=O&logoColor=white" 
         alt="Odoo logo"
         width="100"
         height="30"
