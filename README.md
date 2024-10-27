@@ -76,7 +76,7 @@
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&logoColor=white"/></a>
  </p>
   
-<!-- ### 👉Graphic Designing
+### 👉Graphic Designing
 <p align="left">
   &emsp;
   	
@@ -100,8 +100,24 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
- </p> -->
+ </p>
 
+ ### 👉 CMS
+
+<p align="left">
+  &emsp;
+</a> 
+    &emsp;
+  <a href="https://wordpress.org/" target="_blank"> 
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  </a>
+<!--     &emsp; -->
+ </p>
+ 
  ### 👉 Software & Tools
  
 <p>
