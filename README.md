@@ -113,10 +113,10 @@
     <img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer" title="Odoo - Open Source ERP">
+  <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer" title="O - Open Source ERP">
     <img 
-        src="https://img.shields.io/badge/Odoo-%23714b67.svg?style=flat&logo=O&logoColor=white" 
-        alt="Odoo logo"
+        src="https://img.shields.io/badge/Odoo-%23714b67.svg?style=flat&logo=odoo&logoColor=white" 
+        alt="Odoo"
         width="100"
         height="30"
     />
