@@ -158,7 +158,7 @@
 ## 🙋♀ Let's Connect
 <p align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="chrysdavidbr12@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<!-- 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> -->
 	<a href="https://github.com/ChrysDavid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/brou-kouam%C3%A9-chrys-david-45b8582a1/?originalSubdomain=ci"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/share/XK7gyN6QzyoZgdMP/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
