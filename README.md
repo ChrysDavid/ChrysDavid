@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+And+Mobile++Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Je suis actuellement étudiant en 3ème année de licence à l'IIT (Institut Ivoirien de Technologie), où je prépare une Licence en Informatique. Mes intérêts portent sur la programmation, le design, l'innovation et l'expérimentation. Je suis une personne avec un fort enthousiasme pour relever de nouveaux défis et acquérir de nouvelles compétences. J'apprécie les interactions sociales, rencontrer de nouvelles personnes, échanger des idées et contribuer au partage de connaissances et de positivité.</h4> <br>
+<h4 align="center">Je suis titulaire d’une Licence en Informatique obtenue à l’Institut Ivoirien de Technologie (IIT). Passionné par le développement logiciel, je conçois et réalise des applications web, mobiles et de bureau. Curieux et orienté vers l’innovation, j’aime explorer de nouvelles technologies, expérimenter des approches variées et relever des défis techniques. J’accorde également une grande importance aux échanges et aux interactions, que ce soit pour partager des connaissances, collaborer sur des projets ou apprendre auprès des autres.</h4> <br>
 
 
 ## 🛠️ My Skills
