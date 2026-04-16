@@ -32,14 +32,21 @@ class ChrysDavid:
         self.location    = "Côte d'Ivoire 🇨🇮"
         self.languages   = ["Français 🇫🇷", "English 🇬🇧"]
         self.ai_tools    = ["Claude AI", "GitHub Copilot", "ChatGPT"]
+        self.stack       = ["Flutter", "Vue.js", "Node.js", "Django", "Firebase", "MySQL"]
         self.interests   = ["Web Dev", "Mobile Dev", "AI Integration", "UI/UX", "Open Source"]
-        self.portfolio   = "https://chrys-david.onrender.com"
+        self.portfolio   = "https://portfolio-chrys-david.onrender.com/"
 
-    def say_hi(self):
-        print("Passionné par l'innovation, je transforme des idées en produits numériques.")
+    def current_focus(self):
+        return [
+            "🚀 Je travaille simultanément sur plusieurs projets,",
+            "   chacun avec un stack technologique différent,",
+            "   en m'appuyant sur l'IA pour accélérer le développement,",
+            "   résoudre des problèmes complexes et livrer plus vite."
+        ]
 
 me = ChrysDavid()
-me.say_hi()
+for line in me.current_focus():
+    print(line)
 ```
 
 ---
@@ -70,6 +77,9 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -142,13 +152,49 @@ me.say_hi()
 
 ## 🧩 Projets en vedette
 
-> 🔗 Retrouvez l'ensemble de mes projets sur **[mon portfolio](https://chrys-david.onrender.com)**
+> 🔗 Retrouvez l'ensemble de mes projets sur **[mon portfolio](https://portfolio-chrys-david.onrender.com/)**
 
-| Projet                | Description                          | Stack                        |
-| --------------------- | ------------------------------------ | ---------------------------- |
-| 🌐 **Portfolio**      | Site personnel moderne et responsive | Django · HTML · CSS          |
-| 📱 **App Mobile**     | Application Flutter avec Firebase    | Flutter · Dart · Firebase    |
-| 🤖 **AI Integration** | Chatbot intégré dans une app web     | Python · Django · OpenAI API |
+> 🤖 **Chaque projet est développé avec un stack différent**, en exploitant la puissance de l'IA (Claude, Copilot, ChatGPT) pour concevoir l'architecture, générer du code, déboguer rapidement et livrer des produits de qualité dans des délais réduits.
+
+### 🏆 Projets phares
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ VidoHacker</h3>
+      <p><strong>Plateforme de compétition en cybersécurité</strong> — CTF (Capture The Flag), challenges de hacking éthique, classements et apprentissage de la sécurité informatique pour la communauté francophone.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+      <p>🤖 <em>Développé avec l'aide de Claude AI & GitHub Copilot</em></p>
+      <p><strong>🔐 Web App · CTF · Cybersécurité · Compétition</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 VidoScool</h3>
+      <p><strong>Application mobile d'orientation pour les jeunes Africains</strong> — Aide les élèves et étudiants à découvrir leur vocation, choisir une filière adaptée et construire un projet de carrière qui leur correspond.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <p>🤖 <em>Développé avec l'aide de ChatGPT & Claude AI</em></p>
+      <p><strong>📱 Mobile App · Éducation · Orientation · Afrique</strong></p>
+    </td>
+  </tr>
+</table>
+
+### 📂 Autres projets
+
+| Projet            | Description                                    | Stack                          | IA utilisée |
+| ----------------- | ---------------------------------------------- | ------------------------------ | ----------- |
+| 🌐 **Portfolio**  | Site personnel moderne et responsive           | Django · HTML · CSS            | Claude AI   |
+| 🛒 **E-commerce** | Boutique en ligne avec panier et paiement      | Vue.js · Node.js · MySQL       | ChatGPT     |
+| 🤖 **AI Chatbot** | Assistant intelligent intégré dans une app web | Python · Django · OpenAI API   | Claude AI   |
+| 📊 **Dashboard**  | Tableau de bord analytique interactif          | Vue.js · Express.js · Chart.js | Copilot     |
 
 ---
 
@@ -164,7 +210,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrys-david.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-chrys-david.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-chrys-david-brou-45b8582a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrysDavid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/XK7gyN6QzyoZgdMP/)
@@ -192,5 +238,7 @@ me.say_hi()
 <!--
 🔑 SEO Keywords: Full Stack Developer Côte d'Ivoire, Flutter Developer Abidjan, Django Developer Africa,
 Mobile Developer Ivory Coast, Python Developer IIT, Web Developer Abidjan, AI Developer Africa,
-Chrys David Brou, ChrysDavid GitHub, Développeur Fullstack Côte d'Ivoire
+Vue.js Developer Côte d'Ivoire, Node.js Developer Abidjan, Express.js Developer Africa,
+Chrys David Brou, ChrysDavid GitHub, Développeur Fullstack Côte d'Ivoire,
+Développeur Vue.js Node.js Abidjan, Multi-stack Developer AI-powered
 -->
