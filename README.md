@@ -1,182 +1,196 @@
+<div align="center">
 
-<h1 align="center">Hi , I'm Chrys David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+And+Mobile++Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Je suis titulaire d’une Licence en Informatique obtenue à l’Institut Ivoirien de Technologie (IIT). Passionné par le développement logiciel, je conçois et réalise des applications web, mobiles et de bureau. Curieux et orienté vers l’innovation, j’aime explorer de nouvelles technologies, expérimenter des approches variées et relever des défis techniques. J’accorde également une grande importance aux échanges et aux interactions, que ce soit pour partager des connaissances, collaborer sur des projets ou apprendre auprès des autres.</h4> <br>
+<!-- Banner animé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chrys%20David%20Brou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16"/>
 
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank" style="display: inline-block;">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=C-sharp&logoColor=white" style="height: 21px; width: 75px border-radius: 5px;"/>
-  </a>
-
-
-  &emsp;
-  <a href="https://www.dart.com" target="_blank"> 
-    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-
-</p>
-
-### 👉 mobile developer
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=Flutter&logoColor=white" />
-  </a> 
-  &emsp; 
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-<!--   <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a> -->
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com/" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&logoColor=white"/></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  </a> 
-  &emsp;
-<!--   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
- </a> 
-   &emsp; -->
-  <a href="#" target="_blank"> 
-   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 CMS
-
-<p align="left"> 
-    &emsp;
-  <a href="https://wordpress.org/" target="_blank"> 
-    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="https://www.joomla.fr/" target="_blank"> 
-    <img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer" title="Odoo - Open Source ERP">
-    <img 
-        src="https://img.shields.io/badge/Odoo-%23714b67.svg?style=flat&logo=odoo&logoColor=white" 
-        alt="Odoo"
-        width="100"
-        height="30"
-    />
+<!-- Typing animation -->
+<a href="https://github.com/ChrysDavid">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;Flutter+%7C+Django+%7C+Firebase;AI+Tools+Power+User+%26+Integrator;Graphic+Designer+%7C+UX+Lover;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-
-<!--     &emsp; -->
- </p>
- 
- ### 👉 Software & Tools
- 
+<!-- Badges de visite et profil -->
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> -->
-<!--   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> -->
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-<!--     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a> 
-  &emsp;
-	<br> <br> <br>
- <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
-  &emsp; -->
+  <img src="https://komarev.com/ghpvc/?username=ChrysDavid&label=Profile%20views&color=6E40C9&style=for-the-badge" alt="ChrysDavid" />
+  <a href="https://github.com/ChrysDavid?tab=followers">
+    <img src="https://img.shields.io/github/followers/ChrysDavid?label=Followers&style=for-the-badge&color=6E40C9&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx" />
 </p>
+
+</div>
+
+---
+
+## 👨‍💻 À propos de moi
+
+```python
+class ChrysDavid:
+    def __init__(self):
+        self.name        = "Kouamé Chrys David Brou"
+        self.role        = "Full Stack Developer & Mobile Developer"
+        self.education   = "Licence en Informatique — Institut Ivoirien de Technologie (IIT)"
+        self.location    = "Côte d'Ivoire 🇨🇮"
+        self.languages   = ["Français 🇫🇷", "English 🇬🇧"]
+        self.ai_tools    = ["Claude AI", "GitHub Copilot", "ChatGPT"]
+        self.interests   = ["Web Dev", "Mobile Dev", "AI Integration", "UI/UX", "Open Source"]
+        self.portfolio   = "https://chrys-david.onrender.com"
+
+    def say_hi(self):
+        print("Passionné par l'innovation, je transforme des idées en produits numériques.")
+
+me = ChrysDavid()
+me.say_hi()
+```
+
+---
+
+## 🚀 Stack Technique
+
+### 💻 Langages de programmation
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📱 Développement Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+### 🌐 Développement Web (Frontend & Backend)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 🗄️ Bases de données & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🤖 Intelligence Artificielle — Outils & Intégrations
+
+> J'intègre les assistants IA dans mon workflow de développement pour booster ma productivité, générer du code, analyser des données et construire des applications intelligentes.
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Ce que je fais avec l'IA :**
+
+- 🧠 Génération et revue de code assistée (Copilot + Claude)
+- 💬 Intégration de chatbots intelligents dans des apps web/mobile
+- 📊 Analyse de données et automatisation avec Python + IA
+- 🎨 Génération d'assets graphiques et de contenu UI
+- 🔍 Prompt engineering pour des workflows sur mesure
+
+---
+
+### 🎨 Design & CMS
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+---
+
+### 🛠️ Outils & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChrysDavid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrysDavid&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysDavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ChrysDavid&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
+
+</div>
+
+---
+
+## 🧩 Projets en vedette
+
+> 🔗 Retrouvez l'ensemble de mes projets sur **[mon portfolio](https://chrys-david.onrender.com)**
+
+| Projet                | Description                          | Stack                        |
+| --------------------- | ------------------------------------ | ---------------------------- |
+| 🌐 **Portfolio**      | Site personnel moderne et responsive | Django · HTML · CSS          |
+| 📱 **App Mobile**     | Application Flutter avec Firebase    | Flutter · Dart · Firebase    |
+| 🤖 **AI Integration** | Chatbot intégré dans une app web     | Python · Django · OpenAI API |
+
+---
+
+## 📈 Activité GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysDavid&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+</div>
+
+---
+
+## 🌍 Me contacter
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrys-david.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-chrys-david-brou-45b8582a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrysDavid)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/XK7gyN6QzyoZgdMP/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vido_84/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chrysdavid)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Citation du jour
+
+> _"Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais signe."_ — Cory House
 
 <br/>
 
-## 🙋♀ Let's Connect
-<p align="center">
-  <a href="https://chrys-david.onrender.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-<!-- 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> -->
-	<a href="https://github.com/ChrysDavid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/kouam%C3%A9-chrys-david-brou-45b8582a1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/share/XK7gyN6QzyoZgdMP/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/vido_84/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
- 	<a href="https://www.tiktok.com/@chrysdavid?_t=8qtOUpZdgkX&_r=1"><img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" alt="Tiktok"/></a>
+**💼 Disponible pour des projets freelance & collaborations !**
 
-	
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-<hr/>
+</div>
 
-* Credit: [Chrys David](https://github.com/ChrysDavid)
-* Last Edited on: 27/10/2024
-
-
-
-
-
-
-
-
+<!--
+🔑 SEO Keywords: Full Stack Developer Côte d'Ivoire, Flutter Developer Abidjan, Django Developer Africa,
+Mobile Developer Ivory Coast, Python Developer IIT, Web Developer Abidjan, AI Developer Africa,
+Chrys David Brou, ChrysDavid GitHub, Développeur Fullstack Côte d'Ivoire
+-->
