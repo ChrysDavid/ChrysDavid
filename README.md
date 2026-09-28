@@ -162,7 +162,10 @@ print(ChrysDavid().current_focus())
 ## 📈 Activité
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChrysDavid&theme=tokyo-night&hide_border=true&area=true" alt="Activité" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrysDavid/ChrysDavid/output/github-snake-dark.svg" />
+    <img width="98%" src="https://raw.githubusercontent.com/ChrysDavid/ChrysDavid/output/github-snake.svg" alt="Activité" />
+  </picture>
 </div>
 
 ---
