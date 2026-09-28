@@ -123,7 +123,7 @@ print(ChrysDavid().current_focus())
 
 ## 🧩 Projets en vedette
 
-> 🔗 Tous mes projets sur **[mon portfolio](https://portfolio-chrys-david.onrender.com/)**
+> 🔗 Tous mes projets sur **[mon portfolio](https://brou-kouame-chrys-david.onrender.com/)**
 
 <table>
   <tr>
