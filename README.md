@@ -108,15 +108,28 @@ print(ChrysDavid().current_focus())
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ChrysDavid&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=21600"
+    alt="GitHub stats de Chrys David"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=ChrysDavid&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub streak de Chrys David"
+  />
+</div>
 
-<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ChrysDavid&theme=tokyonight&hide_border=true" alt="Streak" />
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrysDavid&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=21600"
+    alt="Langages les plus utilisés par Chrys David"
+  />
+</div>
 
-<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Langages" />
-<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages les plus commités" />
-
-<img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profil" />
-
+<div align="center">
+  <img width="98%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Contributions de Chrys David" />
 </div>
 
 ---
