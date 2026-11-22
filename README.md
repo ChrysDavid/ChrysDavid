@@ -16,11 +16,37 @@
 
 </div>
 
+<h3 align="center">Je transforme des idées en applications web, mobiles et intelligentes.</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐</h3>
+      <strong>Web Full Stack</strong><br/>
+      <sub>Django · Vue.js · API REST · temps réel</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📱</h3>
+      <strong>Apps mobiles</strong><br/>
+      <sub>Flutter · iOS &amp; Android · Clean Architecture</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖</h3>
+      <strong>Automatisation IA</strong><br/>
+      <sub>Agents IA · workflows · intégration d'API IA</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <strong>Développeur Full Stack, mobile et automatisation IA.</strong><br/>
-  Je crée des applications web (Django, Vue.js) et mobiles (Flutter) de bout en bout, et j'automatise les tâches métier avec des agents IA et des workflows sur mesure.<br/>
-  <em>Full Stack, Mobile &amp; AI Automation Developer, open to freelance and remote work.</em>
+  <img src="https://img.shields.io/badge/De%20l'id%C3%A9e-6E40C9?style=flat-square" alt="De l'idée"/>
+  <img src="https://img.shields.io/badge/%E2%86%92-555?style=flat-square" alt="vers"/>
+  <img src="https://img.shields.io/badge/au%20produit%20en%20ligne-8E75B2?style=flat-square" alt="au produit en ligne"/>
+  <img src="https://img.shields.io/badge/%E2%86%92-555?style=flat-square" alt="puis"/>
+  <img src="https://img.shields.io/badge/automatis%C3%A9%20par%20l'IA-F55036?style=flat-square" alt="automatisé par l'IA"/>
 </p>
+
+<p align="center"><em>Full Stack, Mobile & AI Automation Developer · open to freelance and remote work</em></p>
 
 ---
 
@@ -147,7 +173,7 @@ print(ChrysDavid().current_focus())
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🚌 VidoTrack</h3>
+      <h3><img src="assets/vidotrack-logo.png" alt="Logo VidoTrack" height="28" align="absmiddle"/> VidoTrack</h3>
       <p><strong>Suivi GPS en temps réel des flottes</strong> pour écoles, universités, entreprises et transporteurs : localisation des véhicules en direct, optimisation des trajets, sécurité des passagers et tableaux de bord.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
@@ -159,7 +185,7 @@ print(ChrysDavid().current_focus())
       <p><strong>📍 GPS · Temps réel · Web & mobile</strong></p>
     </td>
     <td width="33%" valign="top">
-      <h3>💘 BabiKiss</h3>
+      <h3><img src="assets/babikiss-logo.png" alt="Logo BabiKiss" height="28" align="absmiddle"/> BabiKiss</h3>
       <p><strong>App de rencontre pensée pour Abidjan</strong> : Cupidon, un assistant IA, remplit le profil en discutant, compare les réponses à des mini-jeux quotidiens et présente une seule personne vraiment compatible.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -171,7 +197,7 @@ print(ChrysDavid().current_focus())
       <p><strong>🤖 Assistant IA · Mobile · Jeux web</strong></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🎓 Vido School</h3>
+      <h3><img src="assets/vidoschool-logo.png" alt="Logo Vido School" height="28" align="absmiddle"/> Vido School</h3>
       <p><strong>App EdTech pour les lycéens africains</strong> : tests d'orientation, bulletin numérique avec calcul des moyennes, assistant IA VidoBot, jeux éducatifs, agenda et apprentissage des langues.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
