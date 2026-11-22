@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chrys%20David%20Brou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20AI%20Automation&descAlignY=55&descSize=16" alt="Chrys David Brou, développeur Full Stack, mobile et automatisation IA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chrys%20David%20Brou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Automation&descAlignY=55&descSize=16" alt="Chrys David Brou, développeur Full Stack, mobile et automatisation IA"/>
 
 <a href="https://github.com/ChrysDavid">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;AI+Agents+%26+Workflow+Automation;Flutter+%7C+Django+%7C+Vue.js;AI+Tools+Power+User+%26+Integrator;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,9 +17,9 @@
 </div>
 
 <p align="center">
-  <strong>Développeur Full Stack, mobile et automatisation IA basé à Grand-Bassam, près d'Abidjan (Côte d'Ivoire).</strong><br/>
+  <strong>Développeur Full Stack, mobile et automatisation IA.</strong><br/>
   Je crée des applications web (Django, Vue.js) et mobiles (Flutter) de bout en bout, et j'automatise les tâches métier avec des agents IA et des workflows sur mesure.<br/>
-  <em>Full Stack, Mobile &amp; AI Automation Developer from Côte d'Ivoire, open to freelance and remote work.</em>
+  <em>Full Stack, Mobile &amp; AI Automation Developer, open to freelance and remote work.</em>
 </p>
 
 ---
@@ -32,7 +32,6 @@ class ChrysDavid:
         self.name      = "Kouamé Chrys David Brou"
         self.role      = "Full Stack, Mobile & AI Automation Developer (Freelance)"
         self.education = "Licence en Génie Logiciel — Institut Ivoirien de Technologie (IIT)"
-        self.location  = "Grand-Bassam, Côte d'Ivoire 🇨🇮"
         self.languages = ["Français", "English"]
         self.stack     = ["Django", "Flutter", "Vue.js", "Node.js", "Firebase", "MySQL"]
         self.ai_tools  = ["Claude", "GitHub Copilot", "ChatGPT"]
