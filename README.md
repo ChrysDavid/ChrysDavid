@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chrys%20David%20Brou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chrys%20David%20Brou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20AI%20Automation&descAlignY=55&descSize=16" alt="Chrys David Brou, développeur Full Stack, mobile et automatisation IA"/>
 
 <a href="https://github.com/ChrysDavid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;Flutter+%7C+Django+%7C+Vue.js;AI+Tools+Power+User+%26+Integrator;Graphic+Designer+%7C+UX+Lover;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;AI+Agents+%26+Workflow+Automation;Flutter+%7C+Django+%7C+Vue.js;AI+Tools+Power+User+%26+Integrator;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -16,6 +16,12 @@
 
 </div>
 
+<p align="center">
+  <strong>Développeur Full Stack, mobile et automatisation IA basé à Grand-Bassam, près d'Abidjan (Côte d'Ivoire).</strong><br/>
+  Je crée des applications web (Django, Vue.js) et mobiles (Flutter) de bout en bout, et j'automatise les tâches métier avec des agents IA et des workflows sur mesure.<br/>
+  <em>Full Stack, Mobile &amp; AI Automation Developer from Côte d'Ivoire, open to freelance and remote work.</em>
+</p>
+
 ---
 
 ## 👨‍💻 À propos de moi
@@ -24,13 +30,14 @@
 class ChrysDavid:
     def __init__(self):
         self.name      = "Kouamé Chrys David Brou"
-        self.role      = "Full Stack & Mobile Developer (Freelance)"
+        self.role      = "Full Stack, Mobile & AI Automation Developer (Freelance)"
         self.education = "Licence en Génie Logiciel — Institut Ivoirien de Technologie (IIT)"
         self.location  = "Grand-Bassam, Côte d'Ivoire 🇨🇮"
         self.languages = ["Français", "English"]
         self.stack     = ["Django", "Flutter", "Vue.js", "Node.js", "Firebase", "MySQL"]
         self.ai_tools  = ["Claude", "GitHub Copilot", "ChatGPT"]
-        self.portfolio = "https://portfolio-chrys-david.onrender.com/"
+        self.automation = ["Agents IA", "Workflows automatisés", "Intégration API IA"]
+        self.portfolio = "https://brou-kouame-chrys-david.onrender.com/"
 
     def current_focus(self):
         return "Plusieurs projets en parallèle, chacun sur un stack différent, accélérés par l'IA."
@@ -73,7 +80,7 @@ print(ChrysDavid().current_focus())
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**IA**
+**IA & Automatisation**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -136,50 +143,59 @@ print(ChrysDavid().current_focus())
 
 ## 🧩 Projets en vedette
 
-> 🔗 Tous mes projets sur **[mon portfolio](https://brou-kouame-chrys-david.onrender.com/)**
+> 🔗 Démos, captures et détails de chaque projet sur **[mon portfolio](https://brou-kouame-chrys-david.onrender.com/)**
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🕵️ VidoHacker</h3>
-      <p><strong>Plateforme de compétition en cybersécurité</strong> — CTF, challenges de hacking éthique et classements pour la communauté francophone.</p>
+    <td width="33%" valign="top">
+      <h3>🚌 VidoTrack</h3>
+      <p><strong>Suivi GPS en temps réel des flottes</strong> pour écoles, universités, entreprises et transporteurs : localisation des véhicules en direct, optimisation des trajets, sécurité des passagers et tableaux de bord.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets"/>
+        <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps"/>
       </p>
-      <p><strong>🔐 Web App · CTF · Cybersécurité</strong></p>
+      <p><strong>📍 GPS · Temps réel · Web & mobile</strong></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎓 VidoScool</h3>
-      <p><strong>App mobile d'orientation pour les jeunes Africains</strong> — découvrir sa vocation, choisir sa filière et construire son projet de carrière.</p>
+    <td width="33%" valign="top">
+      <h3>💘 BabiKiss</h3>
+      <p><strong>App de rencontre pensée pour Abidjan</strong> : Cupidon, un assistant IA, remplit le profil en discutant, compare les réponses à des mini-jeux quotidiens et présente une seule personne vraiment compatible.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/Phaser-8B5CF6?style=flat-square" alt="Phaser"/>
       </p>
-      <p><strong>📱 Mobile · Éducation · Afrique</strong></p>
+      <p><strong>🤖 Assistant IA · Mobile · Jeux web</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Vido School</h3>
+      <p><strong>App EdTech pour les lycéens africains</strong> : tests d'orientation, bulletin numérique avec calcul des moyennes, assistant IA VidoBot, jeux éducatifs, agenda et apprentissage des langues.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
+      </p>
+      <p><strong>📱 iOS & Android · Éducation · Afrique</strong></p>
     </td>
   </tr>
 </table>
 
-| Projet | Description | Stack |
-| --- | --- | --- |
-| 🌐 **Portfolio** | Site personnel responsive | Django · HTML · CSS |
-| 🛒 **E-commerce** | Boutique en ligne avec panier et paiement | Vue.js · Node.js · MySQL |
-| 🤖 **AI Chatbot** | Assistant intelligent intégré dans une app web | Python · Django · API LLM |
-| 📊 **Dashboard** | Tableau de bord analytique interactif | Vue.js · Express · Chart.js |
-
 ---
 
-## 📈 Activité
+## 🤖 Automatisation intelligente avec l'IA
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrysDavid/ChrysDavid/output/github-snake-dark.svg" />
-    <img width="98%" src="https://raw.githubusercontent.com/ChrysDavid/ChrysDavid/output/github-snake.svg" alt="Activité" />
-  </picture>
-</div>
+En plus du développement web et mobile, je conçois des **agents IA** et des **workflows automatisés** qui font gagner du temps aux équipes :
+
+- 🧠 **Agents IA** branchés sur vos données et vos outils (support client, qualification de prospects, assistants internes)
+- ⚙️ **Workflows automatisés** entre applications, API et bases de données (tâches répétitives, rapports, notifications)
+- 🔌 **Intégration d'API IA** (Claude, OpenAI, Gemini, Groq) dans des apps Django, Flutter et Vue.js
+- ✍️ **Prompt engineering** pour des réponses fiables et adaptées à votre métier
 
 ---
 
@@ -187,7 +203,7 @@ print(ChrysDavid().current_focus())
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-chrys-david.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brou-kouame-chrys-david.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-chrys-david-brou-45b8582a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrysDavid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/XK7gyN6QzyoZgdMP/)
