@@ -170,6 +170,26 @@ print(ChrysDavid().current_focus())
 
 > 🔗 Démos, captures et détails de chaque projet sur **[mon portfolio](https://brou-kouame-chrys-david.onrender.com/)**
 
+### 🧠 Djo 1 : le modèle d'IA ivoirien
+
+<table>
+  <tr>
+    <td valign="top">
+      <p><strong>Djo 1</strong> est un modèle de langage (LLM) <strong>100 % ivoirien</strong> que je développe pour la <strong>Côte d'Ivoire</strong> : une IA qui comprend le contexte ivoirien et tourne en local, même sur un ordinateur modeste.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Qwen3-4B-6E40C9?style=flat-square" alt="Qwen3 4B"/>
+        <img src="https://img.shields.io/badge/Unsloth-fine--tuning-14B789?style=flat-square" alt="Unsloth fine-tuning"/>
+        <img src="https://img.shields.io/badge/GGUF-Q4__K__M-555?style=flat-square" alt="GGUF Q4_K_M"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+      </p>
+      <p>
+        <a href="https://huggingface.co/ChrysDavid/djo-1-gguf"><img src="https://img.shields.io/badge/Essayer%20Djo%201%20sur-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Djo 1 sur Hugging Face"/></a>
+      </p>
+      <p><strong>🚧 En développement · IA locale · Côte d'Ivoire</strong></p>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -230,6 +250,7 @@ En plus du développement web et mobile, je conçois des **agents IA** et des **
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brou-kouame-chrys-david.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-chrys-david-brou-45b8582a1/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ChrysDavid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrysDavid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/XK7gyN6QzyoZgdMP/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vido_84/)
