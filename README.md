@@ -170,7 +170,7 @@ print(ChrysDavid().current_focus())
 
 > 🔗 Démos, captures et détails de chaque projet sur **[mon portfolio](https://brou-kouame-chrys-david.onrender.com/)**
 
-### 🧠 Djo 1 : le modèle d'IA ivoirien
+### 🧠 [Djo 1](https://huggingface.co/ChrysDavid/djo-1-gguf) : le modèle d'IA ivoirien
 
 <table>
   <tr>
@@ -193,7 +193,7 @@ print(ChrysDavid().current_focus())
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><img src="assets/vidotrack-logo.png" alt="Logo VidoTrack" height="28" align="absmiddle"/> VidoTrack</h3>
+      <h3><img src="assets/vidotrack-logo.png" alt="Logo VidoTrack" height="28" align="absmiddle"/> <a href="https://vidotrack.com/">VidoTrack</a></h3>
       <p><strong>Suivi GPS en temps réel des flottes</strong> pour écoles, universités, entreprises et transporteurs : localisation des véhicules en direct, optimisation des trajets, sécurité des passagers et tableaux de bord.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
@@ -205,7 +205,7 @@ print(ChrysDavid().current_focus())
       <p><strong>📍 GPS · Temps réel · Web & mobile</strong></p>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="assets/babikiss-logo.png" alt="Logo BabiKiss" height="28" align="absmiddle"/> BabiKiss</h3>
+      <h3><img src="assets/babikiss-logo.png" alt="Logo BabiKiss" height="28" align="absmiddle"/> <a href="https://babikiss.app/">BabiKiss</a></h3>
       <p><strong>App de rencontre pensée pour Abidjan</strong> : Cupidon, un assistant IA, remplit le profil en discutant, compare les réponses à des mini-jeux quotidiens et présente une seule personne vraiment compatible.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -217,7 +217,7 @@ print(ChrysDavid().current_focus())
       <p><strong>🤖 Assistant IA · Mobile · Jeux web</strong></p>
     </td>
     <td width="33%" valign="top">
-      <h3><img src="assets/vidoschool-logo.png" alt="Logo Vido School" height="28" align="absmiddle"/> Vido School</h3>
+      <h3><img src="assets/vidoschool-logo.png" alt="Logo Vido School" height="28" align="absmiddle"/> <a href="https://vido-school-front-web.onrender.com">Vido School</a></h3>
       <p><strong>App EdTech pour les lycéens africains</strong> : tests d'orientation, bulletin numérique avec calcul des moyennes, assistant IA VidoBot, jeux éducatifs, agenda et apprentissage des langues.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
